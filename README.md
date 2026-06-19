@@ -6,20 +6,20 @@ The goal is to extract meaningful insights from patient data, including demograp
 This analysis helps demonstrate how raw healthcare data can be transformed into actionable insights using data analysis techniques.
 
 ## 🧰 Tools & Technologies :
-Python 🐍
-Pandas
-NumPy
-Matplotlib
-Seaborn
-Jupyter Notebook
+- Python 🐍
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Jupyter Notebook
 
 ## 📂 Dataset Features :
 The dataset includes information such as:
-Patient demographics (Age, Gender, etc.)
-Medical conditions
-Admission & discharge dates
-Billing amounts
-Admission type (Emergency, Urgent, Elective)
+- Patient demographics (Age, Gender, etc.)
+- Medical conditions
+- Admission & discharge dates
+- Billing amounts
+- Admission type (Emergency, Urgent, Elective)
 
 ## 🔍 Key Steps in Analysis :
 1. Data Cleaning & Preparation
@@ -52,7 +52,10 @@ It highlights the ability to clean data, engineer features, perform statistical 
 It is part of my journey toward becoming a Data Analyst, focusing on healthcare analytics.
 
 
-👤 Author :
-Florenc Karaj
+##👤 Author :
+
+**Florenc Karaj**
+
 Aspiring Data Analyst | Focus on Healthcare & Business Analytics
+
 GitHub: [FlorencKaraj](https://github.com/FlorencKaraj)
