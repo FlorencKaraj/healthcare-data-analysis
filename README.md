@@ -1,6 +1,6 @@
 # Healthcare Data Analysis (EDA Project)
 
-📊 Project Overview :
+## 📊 Project Overview :
 This project performs Exploratory Data Analysis (EDA) on a healthcare dataset using Python.
 The goal is to extract meaningful insights from patient data, including demographics, hospital stay duration, billing patterns, and relationships between key variables.
 This analysis helps demonstrate how raw healthcare data can be transformed into actionable insights using data analysis techniques.
@@ -38,7 +38,7 @@ Bar charts for Medical Conditions and Admission Types
 Scatter plot for Length of Stay vs Billing Amount
 Correlation heatmap
 
-📈 Key Insights :
+## 📈 Key Insights :
 The dataset mainly consists of middle-aged and elderly patients.
 Billing amounts are relatively consistent across medical conditions.
 Elective admissions tend to have slightly higher costs.
@@ -46,7 +46,7 @@ No strong correlation was found between length of stay and billing amount.
 Categorical factors appear more influential than numerical relationships.
 
 
-🎯 Conclusion :
+## 🎯 Conclusion :
 This project demonstrates practical skills in data analysis and visualization using Python.
 It highlights the ability to clean data, engineer features, perform statistical analysis, and communicate insights clearly.
 It is part of my journey toward becoming a Data Analyst, focusing on healthcare analytics.
