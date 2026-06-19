@@ -5,7 +5,7 @@ This project performs Exploratory Data Analysis (EDA) on a healthcare dataset us
 The goal is to extract meaningful insights from patient data, including demographics, hospital stay duration, billing patterns, and relationships between key variables.
 This analysis helps demonstrate how raw healthcare data can be transformed into actionable insights using data analysis techniques.
 
-🧰 Tools & Technologies :
+## 🧰 Tools & Technologies :
 Python 🐍
 Pandas
 NumPy
@@ -13,7 +13,7 @@ Matplotlib
 Seaborn
 Jupyter Notebook
 
-📂 Dataset Features :
+## 📂 Dataset Features :
 The dataset includes information such as:
 Patient demographics (Age, Gender, etc.)
 Medical conditions
@@ -21,7 +21,7 @@ Admission & discharge dates
 Billing amounts
 Admission type (Emergency, Urgent, Elective)
 
-🔍 Key Steps in Analysis :
+## 🔍 Key Steps in Analysis :
 1. Data Cleaning & Preparation
 Converted date columns into datetime format
 Created a new feature: Length of Stay
