@@ -21,16 +21,16 @@ The dataset includes information such as:
 - Billing amounts
 - Admission type (Emergency, Urgent, Elective)
 
-## 🔍 🔍 Key Steps in Analysis
+## 🔍  Key Steps in Analysis
 
-1. Data Cleaning & Feature Engineering
+1. **Data Cleaning & Feature Engineering**
    
    - Removed 534 duplicate records
    - Replaced invalid negative billing amounts using the median value
    - Converted date columns to datetime format
    - Created the Length of Stay feature
 
-2. Exploratory Data Analysis (EDA)
+2. **Exploratory Data Analysis (EDA)**
    
    - Analyzed patient age distribution
    - Explored billing amount distribution
@@ -38,19 +38,19 @@ The dataset includes information such as:
    - Analyzed billing amounts by admission type
    - Examined the relationship between Length of Stay and Billing Amount
 
-3. Statistical Analysis
+3. **Statistical Analysis**
    
    - Generated descriptive statistics
    - Performed correlation analysis
 
-4. Data Visualization
+4. **Data Visualization**
    
    - Histograms
    - Bar charts
    - Scatter plot
    - Correlation heatmap
      
-## 📈 📈 Key Insights
+##  📈 Key Insights
 
 - 534 duplicate records were identified and removed to improve data quality.
 - Invalid negative billing values were replaced using the median billing amount.
